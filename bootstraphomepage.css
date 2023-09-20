@@ -1,0 +1,154 @@
+.banner{
+	 
+	background-image:url("banner(2).png");
+	background-size:cover;
+	background-position:center;
+	margin-bottom:30px;
+	background-repeat:no-repeat;
+	padding-bottom:150px;
+ }
+ .all {
+  
+    margin-top:100px;
+    margin-top: 13.25rem;
+    margin-bottom: -8.75rem; 
+}
+ 
+ .healing{
+	 color:#37abe7;
+ }
+
+ .border {
+    display: inline-block;
+    width: 100%;
+    height: 50%;
+    margin: 0px;
+    background-color: #f9f9f9;
+	font-size: 13px;
+    padding-left: 15px;
+    padding-right: 10px;
+	padding-top: 10px;
+  }
+  .container{
+	width:1024px;
+	margin:0px auto;
+}
+
+element.style {
+}
+.container {
+    padding-bottom: 10px;
+}
+.banner-story {
+    margin-top: 20px;
+}
+.gap-4 {
+    gap: 1.5rem;
+    margin-top: 9px;
+}
+.bannerB{
+	background-image:url("banner(3).png");
+	text-align:center;
+	position:top;
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.heading{
+	text-align: center;
+    color: #37abe7;
+    font-family: satisfy;
+    padding: 40px 0px 0px 0px;
+}
+.testimonialbox {
+    display: flex;
+    gap: 100px;
+}
+.box1{
+    width: 80%;
+    height: 412px;
+    display: flex;
+}
+.box2{
+    width: 80%;
+    height: 412px;
+    display: flex;
+}
+.testimonials {
+    width: 42%;
+	display:flex;
+	    margin-left: 60px;
+		gap:50px;
+}
+nav.navbar.navbar-expand-sm.bg-primary.navbar-primary {
+    padding: 10px;
+	width:106%;
+}
+.bannerimage{
+	width: 125px;
+    margin-right: 300px;
+    margin-bottom: -140px;
+    padding-top: 1.25rem;
+	padding-top: 0.25rem;
+    margin-left: 10px;
+}
+.details {
+    margin-left: 100px;
+    padding: 0px;
+    color: white;
+}
+.map{
+
+    text-align: right;
+    margin-top: -50px;
+}
+.paragraph{
+	margin:0px;
+	height:200px;
+	width:106%;
+	padding:20px 20px 20px 20px;
+	font-family:lato italic;
+}
+.lastnav {
+background-image:url("backbround.png");
+  opacity:100%;
+}
+.cardbox {
+    display: flex;
+}
+.card{
+    width: 100%;
+}
+.card1{
+	    margin-right: 50px;
+    font-size: 12px;
+}
+.last{
+	background-color:#194e69;
+}
+.all1{
+	display:contents;
+}
+.logolast{
+	    margin-left: 16rem;
+
+}
+.png {
+    margin-left: 135px;
+}
+.contact {
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.footer-icon {
+    font-size: 30px;
+}
+.testbox{
+	display:flex;
+}
+.boxes{
+	display:flex;
+}
+.button {
+	border-radius: 30px;
+}
